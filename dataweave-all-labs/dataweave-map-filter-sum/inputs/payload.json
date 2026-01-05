@@ -1,0 +1,29 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Uday"
+    },
+    {
+      "id": 2,
+      "name": "Teja"
+    }
+  ],
+  "orders": [
+    {
+      "orderId": 101,
+      "customerId": 1,
+      "amount": 3000
+    },
+    {
+      "orderId": 102,
+      "customerId": 1,
+      "amount": 2000
+    },
+    {
+      "orderId": 103,
+      "customerId": 2,
+      "amount": 1500
+    }
+  ]
+}
