@@ -1,0 +1,19 @@
+{
+  "data": {
+    "schema": "R732vnVgKhK2zCIe9PJ9oQ",
+    "payload": {
+      "address__c": "guntur",
+      "CreatedById": "005NS00000ixMhhYAE",
+      "age__c": 20,
+      "CreatedDate": "2025-11-27T06:53:19.262Z",
+      "name__c": "teju",
+      "salary__c": 30000
+    },
+    "event": {
+      "EventUuid": "53e3f493-da1f-4aaf-a57d-1bcf43ccaf63",
+      "replayId": 1959,
+      "EventApiName": "employeeEvent__e"
+    }
+  },
+  "channel": "/event/employeeEvent__e"
+}
