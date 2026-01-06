@@ -1,0 +1,7 @@
+{
+    "message": "Hello world!",
+    "name":{
+        "name1":"susmitha"
+    },
+    "age":["one","two"]
+}
