@@ -1,0 +1,5 @@
+O35EXX9 Maternal care for other (suspected) fetal abnormality and damage, fetal genitourinary anomalies, other fetus
+O35FXX0 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, not applicable or unspecified
+O35FXX1 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, fetus 1
+O35FXX2 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, fetus 2
+O35FXX3 Maternal care for other (suspected) fetal abnormality and damage, fetal musculoskeletal anomalies of trunk, fetus 3
